@@ -11,5 +11,5 @@
     <string name="app_function_selector1_close">【是否抢自己发送的红包】<![CDATA[<font color="#CCCCCC">（不抢）</font>]]></string>
     <string name="string_other">注意项：</string>
     <string name="string_app_notice1">【1.抢红包功能仅在"微信群聊界面"生效】</string>
-    <string name="string_app_notice2">【2.兼容微信6.6.6以上版本】</string>
+    <string name="string_app_notice2">【2.兼容微信6.6.5以上版本】</string>
 </resources>
