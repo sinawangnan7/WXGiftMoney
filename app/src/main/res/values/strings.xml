@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">微信自动抢红包</string>
+    <string name="app_description">【微信群聊界面】自动抢红包，帮你提升抢包手速。</string>
+
+    <string name="auto_get_money">自动抢红包</string>
+    <string name="string_service_stop"><![CDATA[<font color="#CCCCCC">（未开启）</font>]]></string>
+    <string name="string_service_start"><![CDATA[<font color="#FF3333">（已开启）</font>]]></string>
+    <string name="string_function_description">功能描述：</string>
+    <string name="string_function_selector">功能选项：</string>
+    <string name="app_function_selector1_start">【是否抢自己发送的红包】<![CDATA[<font color="#33CC00">（抢）</font>]]></string>
+    <string name="app_function_selector1_close">【是否抢自己发送的红包】<![CDATA[<font color="#CCCCCC">（不抢）</font>]]></string>
+    <string name="string_other">注意项：</string>
+    <string name="string_app_notice1">【1.抢红包功能仅在"微信群聊界面"生效】</string>
+    <string name="string_app_notice2">【2.兼容微信6.6.6以上版本】</string>
+</resources>
