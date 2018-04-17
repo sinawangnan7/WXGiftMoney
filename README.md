@@ -12,6 +12,8 @@
 
 [WXGiftMoney.apk](https://github.com/sinawangnan7/WXGiftMoney/blob/master/WXGiftMoney.apk)
 
+> 注意：目前最高兼容到Android 6.0版本；Android 7.0及其以上版本有个已知Bug“仅仅响应第1次自动点击，第2次点击失效”（待修正）
+
 ### 使用说明
 
 1.**【打开】抢红包功能**
